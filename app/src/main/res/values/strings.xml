@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">YadliSettings</string>
+
+    <string name="save">Save</string>
+
+    <string name="nightshift_start">Nightshift start time</string>
+    <string name="nightshift_end">Nightshift end time</string>
+    <string name="nightshift_restore">Nightshift restore time</string>
+    <string name="nightshift_toggle">Nightshift master switch</string>
+
+    <string name="intellithermal_standby_freq">Standby frequency</string>
+    <string name="intellithermal_normal_freq">Normal frequency</string>
+    <string name="intellithermal_performance_freq">Perf. frequency</string>
+
+    <string name="intellithermal_standby_min_little_core">Standby min little core</string>
+    <string name="intellithermal_normal_min_little_core">Normal min little core</string>
+    <string name="intellithermal_performance_min_little_core">Perf. min little core</string>
+
+    <string name="intellithermal_standby_max_little_core">Standby max little core</string>
+    <string name="intellithermal_normal_max_little_core">Normal max little core</string>
+    <string name="intellithermal_performance_max_little_core">Perf. max little core</string>
+
+    <string name="intellithermal_standby_min_big_core">Standby min big core</string>
+    <string name="intellithermal_normal_min_big_core">Normal min big core</string>
+    <string name="intellithermal_performance_min_big_core">Perf. min big core</string>
+
+    <string name="intellithermal_standby_max_big_core">Standby max big core</string>
+    <string name="intellithermal_normal_max_big_core">Normal max big core</string>
+    <string name="intellithermal_performance_max_big_core">Perf. max big core</string>
+
+    <string name="save_message">Restart your phone to apply the settings.</string>
+</resources>
