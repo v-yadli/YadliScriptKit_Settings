@@ -152,11 +152,11 @@ public class SettingsActivity extends AppCompatActivity {
         numberPicker_normal_min_big_core.setMaxValue(4);
         numberPicker_normal_min_big_core.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
 
-        numberPicker_normal_max_little_core.setMinValue(0);
+        numberPicker_normal_max_little_core.setMinValue(1);
         numberPicker_normal_max_little_core.setMaxValue(4);
         numberPicker_normal_max_little_core.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
 
-        numberPicker_normal_min_little_core.setMinValue(0);
+        numberPicker_normal_min_little_core.setMinValue(1);
         numberPicker_normal_min_little_core.setMaxValue(4);
         numberPicker_normal_min_little_core.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
 
@@ -169,11 +169,11 @@ public class SettingsActivity extends AppCompatActivity {
         numberPicker_standby_min_big_core.setMaxValue(4);
         numberPicker_standby_min_big_core.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
 
-        numberPicker_standby_max_little_core.setMinValue(0);
+        numberPicker_standby_max_little_core.setMinValue(1);
         numberPicker_standby_max_little_core.setMaxValue(4);
         numberPicker_standby_max_little_core.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
 
-        numberPicker_standby_min_little_core.setMinValue(0);
+        numberPicker_standby_min_little_core.setMinValue(1);
         numberPicker_standby_min_little_core.setMaxValue(4);
         numberPicker_standby_min_little_core.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
 
@@ -186,11 +186,11 @@ public class SettingsActivity extends AppCompatActivity {
         numberPicker_performance_min_big_core.setMaxValue(4);
         numberPicker_performance_min_big_core.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
 
-        numberPicker_performance_max_little_core.setMinValue(0);
+        numberPicker_performance_max_little_core.setMinValue(1);
         numberPicker_performance_max_little_core.setMaxValue(4);
         numberPicker_performance_max_little_core.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
 
-        numberPicker_performance_min_little_core.setMinValue(0);
+        numberPicker_performance_min_little_core.setMinValue(1);
         numberPicker_performance_min_little_core.setMaxValue(4);
         numberPicker_performance_min_little_core.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
 

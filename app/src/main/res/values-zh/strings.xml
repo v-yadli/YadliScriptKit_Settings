@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">Yadli设置程序</string>
     <string name="intellithermal_normal_freq">节电小核频率</string>
-    <string name="intellithermal_normal_max_big_core">节电至多小核</string>
-    <string name="intellithermal_normal_max_little_core">节电至多大核</string>
+    <string name="intellithermal_normal_max_big_core">节电至多大核</string>
+    <string name="intellithermal_normal_max_little_core">节电至多小核</string>
     <string name="intellithermal_normal_min_little_core">节电至少小核</string>
     <string name="intellithermal_performance_freq">高性能小核频率</string>
     <string name="intellithermal_performance_max_big_core">高性能至多大核</string>
